@@ -6,5 +6,5 @@ It builds on the skillsI learned while building the intial basic web scarper: ht
 
 I used the following Python libraries:
 Beautiful Soup,
-Pandas and,
+Pandas,
 Requests
