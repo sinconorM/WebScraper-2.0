@@ -5,6 +5,6 @@ This is a web scraper that scrapes the website https://www.wits.ac.za/undergradu
 It builds on the skillsI learned while building the intial basic web scarper: https://github.com/sinconorM/WebScraper
 
 I used the following Python libraries:
-Beautiful Soup
-Pandas
+Beautiful Soup,
+Pandas and,
 Requests
